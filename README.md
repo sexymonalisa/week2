@@ -3,19 +3,19 @@
 
 ---
 
-## 📌 What This Project Does
+##  What This Project Does
 This project predicts whether a child is at risk of malnutrition using simple information like age, weight, height, meals per day, and access to clean water.  
-It helps NGOs and health workers **identify at-risk children early**, supporting timely intervention.
+It helps NGOs and health workers identify at-risk children early, supporting timely intervention.
 
 ---
 
-## 🎯 The Problem
+##  The Problem
 Malnutrition affects millions of children worldwide, causing stunted growth, health problems, and poor cognitive development.  
 Traditional detection is slow and often misses children who need help early.
 
 ---
 
-## 💡 Our AI Solution
+## Our AI Solution
 - **Type:** Machine Learning (Supervised Learning)  
 - **Algorithm:** Logistic Regression  
 - **Input Data:** Age, Weight, Height, Meals per day, Access to clean water  
@@ -25,26 +25,26 @@ The computer learns from examples of children with known risk and predicts for n
 
 ---
 
-## 🛠 How to Run
+## How to Run
 1. Open Google Colab or Python.  
-2. Upload the `malnutrition_model.py` file.  
+2. Upload the `mlp_week2_unSDGs.ipynb` file.  
 3. Run it to see predictions and accuracy.
 
 ---
 
 ## 📸 Demo Screenshots
 **Code:**  
-![Python Code](screenshots/code.png)  
+![Python Code](googlecollabscreenshot1)  
 
 **Running Code:**  
-![Running Code](screenshots/running.png)  
+![Running Code](googlecollabscreenshot2)  
 
 **Output/Results:**  
-![Results](screenshots/output.png)  
+![Results](githubscreenshot2)  
 
 ---
 
-## 🌱 Why It Matters
+## Why It Matters
 - Helps detect malnutrition early  
 - Guides resource allocation for NGOs and health workers  
 - Supports SDG 2: Zero Hunger  
